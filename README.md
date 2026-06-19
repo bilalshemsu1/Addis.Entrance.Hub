@@ -104,7 +104,7 @@ Throughout the journey, one of our biggest struggles was covering server costs. 
 
 This year was more difficult, so we decided to ask for sponsorship and infrastructure support. After posting our request, **within about one hour, someone reached out and covered our server expenses for the year**.
 
-Now AEH is stable again and continues to serve, guide, and support students.
+Now AEH is stable again and continues to serve, guide, and support students. Open for sponser.
 
 ---
 

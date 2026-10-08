@@ -82,12 +82,12 @@ By this time, AEH had grown significantly:
 
 | Metric | Count |
 |---|---|
-| Active Users | 5,900+ |
+| Active Users | 7,000+ |
 | Monthly Traffic | 200,000+ |
 | Telegram Channel Members | 4,000+ |
-| Community Group Members | 900+ |
-| Quiz Channel Members | 311 |
-| Resource Channel Members | 419 |
+| Community Group Members | 950+ |
+| Quiz Channel Members | 350 |
+| Resource Channel Members | 500 |
 | TikTok Views | 200,000+ |
 
 We had already **integrated AI using prompt engineering** during our Grade 12 period, so students did not need to leave the platform to ask questions.
